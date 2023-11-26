@@ -1,6 +1,6 @@
 # "Passionate Front-End Engineer | Open Source Enthusiast"
 <p align="center">
-  <img src="(https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png)" alt="React Logo" width="80" height="80">
+  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" alt="React Logo" width="80" height="80">
   <img src="https://example.com/path/to/react-logo.png" alt="React Logo" width="80" height="80">
   <img src="https://example.com/path/to/react-logo.png" alt="React Logo" width="80" height="80">
 </p>
