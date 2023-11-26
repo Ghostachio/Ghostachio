@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" alt="Html Logo" width="40" height="40">
   <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png" alt="Css Logo" width="40" height="40">
-  <img src="[https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)" alt="JS Logo" width="40" height="40">
+  <img src="(https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS Logo" width="40" height="40">
 </div>
 
 👋 Hey there! I'm Hamza, a passionate beginner front-end engineer eager to contribute to open source projects and learn from the community.
