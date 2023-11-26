@@ -1,4 +1,10 @@
 # "Passionate Front-End Engineer | Open Source Enthusiast"
+<p align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.m.wikipedia.org%2Fwiki%2FFichier%3AHTML5_logo_and_wordmark.svg&psig=AOvVaw2wBy588Xi1vSKZbPo67eJY&ust=1701104101314000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDA5d-Q4oIDFQAAAAAdAAAAABAE" alt="html Logo" width="80" height="80">
+  <img src="https://example.com/path/to/react-logo.png" alt="React Logo" width="80" height="80">
+  <img src="https://example.com/path/to/react-logo.png" alt="React Logo" width="80" height="80">
+  <img src="https://example.com/path/to/react-logo.png" alt="React Logo" width="80" height="80">
+</p>
 
 👋 Hey there! I'm Hamza, a passionate beginner front-end engineer eager to contribute to open source projects and learn from the community.
 
