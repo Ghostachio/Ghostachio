@@ -25,6 +25,6 @@ I'm seeking opportunities to work with experienced developers who can provide me
 I'm always open to connecting with fellow developers, so feel free to reach out! Whether you're looking for a collaborator or have advice to share, I'd love to hear from you.
 
 🌐 Portfolio:
-Check out my portfolio at [Link Text](https://hamza-mansour-portfolio.vercel.app/) to see some of my projects and get a glimpse of my coding style.
+Check out [My Portfolio](https://hamza-mansour-portfolio.vercel.app/) at  to see some of my projects and get a glimpse of my coding style.
 
 🙏 Thank you for stopping by! Let's build something awesome together.
