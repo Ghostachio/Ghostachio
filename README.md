@@ -1,3 +1,5 @@
+# "Passionate Front-End Engineer | Open Source Enthusiast"
+
 👋 Hey there! I'm Hamza, a passionate beginner front-end engineer eager to contribute to open source projects and learn from the community.
 
 🚀 About Me:
