@@ -1,4 +1,6 @@
-
+<div align="center" >
+<img  src="https://i.pinimg.com/originals/37/4a/9c/374a9ce6182b7a8aafd8c6ea6b698ff3.gif" alt="head"  width="600" height="cover" >
+</div>
 <h1 align="center">"Passionate Front-End Engineer | Open Source Enthusiast"</h1>
 <div align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Html Logo" width="50" height="50">
