@@ -16,7 +16,7 @@
 👋 Hey there! I'm Hamza, a passionate beginner front-end engineer eager to contribute to open source projects and learn from the community.
 
 🚀 About Me:
-I'm a budding developer with a strong interest in front-end technologies such as HTML, CSS, and JavaScript. I'm on a journey to enhance my skills and contribute to meaningful projects that make a positive impact.
+I'm a budding developer with a strong interest in front-end technologies such as HTML, CSS, JavaScript and React. I'm on a journey to enhance my skills and contribute to meaningful projects that make a positive impact.
 
 🛠️ Skills:
 
@@ -24,11 +24,12 @@ HTML5, CSS3
 JavaScript (ES6+)
 React JS
 Tailwind Css
+Bootsrap
 Responsive Web Design
 Git and GitHub
 
 🌱 Learning Goals:
-I'm currently exploring React, and I'm excited to dive into Next.js. My goal is to become proficient in creating seamless and user-friendly web experiences.
+I'm currently exploring React, and I'm excited to dive into Backend Technologies. My goal is to become proficient in creating seamless and user-friendly web experiences.
 
 🤝 How I Can Contribute:
 I'm ready to collaborate and contribute to open source projects. Whether it's fixing bugs or adding new features, I'm eager to learn and make a positive impact on the community.
