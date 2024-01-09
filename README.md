@@ -15,32 +15,32 @@
 
 👋 Hey there! I'm Hamza, a passionate beginner front-end engineer eager to contribute to open source projects and learn from the community.
 
-🚀 About Me:
+🚀 About Me:<br>
 I'm a budding developer with a strong interest in front-end technologies such as HTML, CSS, JavaScript and React. I'm on a journey to enhance my skills and contribute to meaningful projects that make a positive impact.
 
 🛠️ Skills:
 
-HTML5, CSS3
-JavaScript (ES6+)
-React JS
-Tailwind Css
-Bootsrap
-Responsive Web Design
-Git and GitHub
+HTML5, CSS3 <br>
+JavaScript (ES6+)<br>
+React JS<br>
+Tailwind Css<br>
+Bootsrap<br>
+Responsive Web Design<br>
+Git and GitHub<br>
 
-🌱 Learning Goals:
+🌱 Learning Goals:<br>
 I'm currently exploring React, and I'm excited to dive into Backend Technologies. My goal is to become proficient in creating seamless and user-friendly web experiences.
 
-🤝 How I Can Contribute:
+🤝 How I Can Contribute:<br>
 I'm ready to collaborate and contribute to open source projects. Whether it's fixing bugs or adding new features, I'm eager to learn and make a positive impact on the community.
 
-🔍 Looking For:
+🔍 Looking For:<br>
 I'm seeking opportunities to work with experienced developers who can provide mentorship and guidance. I'm open to joining projects that align with my interests and allow me to grow as a front-end engineer.
 
-📫 Let's Connect:
+📫 Let's Connect:<br>
 I'm always open to connecting with fellow developers, so feel free to reach out! Whether you're looking for a collaborator or have advice to share, I'd love to hear from you.
 
-🌐 Portfolio:
+🌐 Portfolio:<br>
 Check out [My Portfolio](https://hamza-mansour-portfolio.vercel.app/) at  to see some of my projects and get a glimpse of my coding style.
 
 🙏 Thank you for stopping by! Let's build something awesome together.
