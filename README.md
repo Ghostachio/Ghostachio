@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">"Passionate Front-End Engineer | Open Source Enthusiast"</h1><br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,nodejs,express,vite,vscode" />
 </div>
 <br>
 
