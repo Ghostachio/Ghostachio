@@ -1,7 +1,7 @@
 <div align="center" >
 <img  src="https://i.pinimg.com/originals/37/4a/9c/374a9ce6182b7a8aafd8c6ea6b698ff3.gif" alt="head"  width="600" height="cover" >
 </div>
-<h1 align="center">"Passionate Front-End Engineer | Open Source Enthusiast"</h1><br>
+<h1 align="center">"Passionate Junior Fullstack Developer | Open Source Enthusiast"</h1><br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,bootstrap,tailwind,git,github,nodejs,express,vscode,vite" />
 </div>
