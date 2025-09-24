@@ -24,7 +24,7 @@ Responsive Web Design<br>
 Git and GitHub<br>
 
 <h3>🌱 Learning Goals:</h3><br>
-I'm currently exploring React, and I'm excited to dive into Backend Technologies. My goal is to become proficient in creating seamless and user-friendly web experiences.
+I'm currently exploring React, and I'm excited to dive deeper into Backend Technologies. My goal is to become proficient in creating seamless and user-friendly web experiences.
 
 <h3>🤝 How I Can Contribute:</h3><br>
 I'm ready to collaborate and contribute to open source projects. Whether it's fixing bugs or adding new features, I'm eager to learn and make a positive impact on the community.
